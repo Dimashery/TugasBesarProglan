@@ -14,3 +14,19 @@ Waktu dan Tanggal: 2023-12-27 20:33:18
 Inputan: "Zeedan " | "Dimas" | "Tegar" | "Indra"
 Output: "Tegar"
 
+Waktu dan Tanggal: 2023-12-28 10:57:36
+Inputan: "Dimas" | "Tegar" | "zeedan"
+Output: "zeedan"
+
+Waktu dan Tanggal: 2023-12-28 10:57:38
+Inputan: "Dimas" | "Tegar" | "zeedan"
+Output: "Tegar"
+
+Waktu dan Tanggal: 2023-12-28 10:57:40
+Inputan: "Dimas" | "Tegar" | "zeedan"
+Output: "Tegar"
+
+Waktu dan Tanggal: 2023-12-28 10:57:40
+Inputan: "Dimas" | "Tegar" | "zeedan"
+Output: "zeedan"
+
